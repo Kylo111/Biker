@@ -1,34 +1,36 @@
 #include <Arduino.h>
-#include <BLEDevice.h>
-#include <Preferences.h>
+// #include <BLEDevice.h> // ESP8266 nie ma BLE
+// #include <Preferences.h> // ESP8266 używa EEPROM
+#include <EEPROM.h> // Do zapisu ustawień na ESP8266
 
 // PWM Configuration
-#define PWM_PIN 25       // Pin for PWM output (change as needed)
-#define PWM_CHANNEL 0    // LEDC channel (0-15)
-#define PWM_FREQ 1000    // PWM frequency in Hz (1 kHz)
-#define PWM_RESOLUTION 8 // PWM resolution in bits (8 bits = 0-255)
-BLEServer *pServer = nullptr;
+#define PWM_PIN D1 // Pin for PWM output (np. D1 na NodeMCU) - zmień wg potrzeb
+// ESP8266 używa analogWrite, które ma domyślną częstotliwość ok. 1kHz i rozdzielczość 10 bitów (0-1023)
+// Można zmienić zakres na 0-255 za pomocą analogWriteRange(255);
+// BLEServer *pServer = nullptr; // Usunięto BLE
 
 void receiveConfiguration();   // odbiór konfiguracji (JSON)
 void sendTelemetry();          // wysyłanie danych telemetrycznych (binarne)
 void debug();                  // debugowanie
 void updatePWM(int dutyCycle); // Aktualizacja wypełnienia PWM
-void saveSettings();           // zapis ustawień do pamięci nieulotnej
-void loadSettings();           // odczyt ustawień z pamięci nieulotnej
+void saveSettings();           // zapis ustawień do EEPROM
+void loadSettings();           // odczyt ustawień z EEPROM
 
 void setup() {
   Serial.begin(115200);
   Serial.println("Biker firmware start");
-// Inicjalizacja BLE
-BLEDevice::init("BikerESP32");
-pServer = BLEDevice::createServer();
-// Placeholder: konfiguracja GATT serwera, usług i charakterystyk
+// // Inicjalizacja BLE - Usunięto
+// BLEDevice::init("BikerESP8266"); // Zmieniono nazwę dla jasności
+// pServer = BLEDevice::createServer();
+// // Placeholder: konfiguracja GATT serwera, usług i charakterystyk
 
-// Inicjalizacja PWM
-ledcSetup(PWM_CHANNEL, PWM_FREQ, PWM_RESOLUTION);
-ledcAttachPin(PWM_PIN, PWM_CHANNEL);
+// Inicjalizacja PWM dla ESP8266
+pinMode(PWM_PIN, OUTPUT);
+analogWriteRange(255); // Ustaw zakres PWM na 0-255 (zamiast domyślnego 0-1023)
+// analogWriteFreq(1000); // Ustaw częstotliwość PWM na 1kHz (domyślnie jest ok. 1kHz)
 Serial.println("PWM Initialized");
 
+EEPROM.begin(512); // Zainicjuj EEPROM (rozmiar w bajtach, np. 512)
 loadSettings(); // Załaduj ustawienia przy starcie
 }
 
@@ -53,15 +55,17 @@ void debug() {
 
 void updatePWM(int dutyCycle) {
   // Ogranicz wartość dutyCycle do zakresu 0-255
-  dutyCycle = constrain(dutyCycle, 0, 255);
-  ledcWrite(PWM_CHANNEL, (uint32_t)dutyCycle); // Użyj rzutowania na uint32_t
+  dutyCycle = constrain(dutyCycle, 0, 255); // Upewnij się, że wartość jest w zakresie 0-255
+  analogWrite(PWM_PIN, dutyCycle); // Użyj analogWrite dla ESP8266
   // Serial.print("PWM Duty Cycle: "); Serial.println(dutyCycle); // Opcjonalny debug
 }
 
 void saveSettings() {
-  // Placeholder: zapis ustawień do pamięci nieulotnej (Preferences)
+  // Placeholder: zapis ustawień do EEPROM
+  // Przykład: EEPROM.put(adres, wartosc); EEPROM.commit();
 }
 
 void loadSettings() {
-  // Placeholder: odczyt ustawień z pamięci nieulotnej (Preferences)
+  // Placeholder: odczyt ustawień z EEPROM
+  // Przykład: EEPROM.get(adres, zmienna);
 }
