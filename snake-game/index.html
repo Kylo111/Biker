@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gra w Węża</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>Gra w Węża</h1>
+    <div id="game-container">
+        <canvas id="gameCanvas" width="400" height="400"></canvas>
+        <div id="ui-elements">
+            <div>Wynik: <span id="score">0</span></div>
+            <div id="difficulty-selection">
+                Wybierz poziom:
+                <button id="easyBtn">Łatwy</button>
+                <button id="mediumBtn">Średni</button>
+                <button id="hardBtn">Trudny</button>
+            </div>
+            <div id="message"></div>
+        </div>
+    </div>
+
+    <script src="js/constants.js"></script>
+    <script src="js/state.js"></script>
+    <script src="js/board.js"></script>
+    <script src="js/snake.js"></script>
+    <script src="js/food.js"></script>
+    <script src="js/input.js"></script>
+    <script src="js/renderer.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/game.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

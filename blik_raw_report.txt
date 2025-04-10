@@ -1,0 +1,564 @@
+**Dane historyczne i kontekstowe (2010-2015):**
+
+*   **2012 (II połowa):** Wprowadzenie atrakcyjnych promocji przez operatorów sieci komórkowej, co stało się silnym motorem rozwojowym dla rynku mobilnego online w Polsce. (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 2 | Data dostępu: 05/04/2025)
+*   **2012:** Wartość zakupów dokonanych poprzez urządzenia mobilne w Polsce oscylowała wokół 300 mln zł. (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 58, powołując się na mGenerator.pl, 2013 | Data dostępu: 05/04/2025)
+*   **2013 (koniec roku):** Penetracja smartfonów wśród internautów 15+ wyniosła 57%. (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 12, 22 | Data dostępu: 05/04/2025)
+*   **2013 (koniec roku):** Penetracja tabletów wśród internautów 15+ wyniosła 10% (prywatnego), 1% (udostępnianego przez pracodawcę). (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 12 | Data dostępu: 05/04/2025)
+*   **2013:** 25% posiadaczy smartfonów w Polsce używało ich jedynie w podstawowym zakresie i nigdy nie korzystało za ich pośrednictwem z internetu. Wśród posiadaczy tabletów analogiczny odsetek wynosił 50%. (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 13, powołując się na MillwardBrown, 2013 | Data dostępu: 05/04/2025)
+*   **2013'Q1:** Urządzenia mobilne odpowiadały za 4,68% całego ruchu w sieci w Polsce (smartfony 3,56%, tablety 1,11%). (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 13, powołując się na Gemius S.A., Ranking.pl | Data dostępu: 05/04/2025)
+*   **2013 (lipiec):** Powołanie spółki Polskiego Standardu Płatności (PSP) przez sześć banków w celu stworzenia jednolitego standardu płatności mobilnych opartego na IKO. (Źródło: Artykuł "Rynek płatności mobilnych w Polsce", Annales H - Oeconomia, powołując się na Gąska, 2013; Gawłowski, Kretowicz, 2014 | Data dostępu: 05/04/2025)
+*   **2013:** 28% posiadaczy smartfonów w Polsce korzystających z mobilnego internetu robiło zakupy za pośrednictwem tych urządzeń. (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 58, powołując się na Google, "Our Mobile Planet 2013" | Data dostępu: 05/04/2025)
+*   **2013:** 76% polskich sklepów internetowych nie posiadało rozwiązań skierowanych do użytkownika mobilnego. (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 58-59, powołując się na mGenerator.pl, 2013 | Data dostępu: 05/04/2025)
+*   **2013:** 23% użytkowników smartfonów deklarowało wykorzystanie mobile banking do obsługi bankowości online, 15% realizowało przelewy/operacje finansowe. (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 60-61, powołując się na "IAB Polska, Mobile", 2013'Q4 | Data dostępu: 05/04/2025)
+*   **2013 (koniec roku):** Aplikacja IKO (PKO BP) miała 100 tys. użytkowników. (Źródło: Artykuł "Rynek płatności mobilnych w Polsce", Annales H - Oeconomia, powołując się na Jurczak, 2014 | Data dostępu: 05/04/2025)
+*   **2013 (koniec roku):** Aplikacja PeoPay (Pekao SA) miała prawie 70 tys. użytkowników. (Źródło: Artykuł "Rynek płatności mobilnych w Polsce", Annales H - Oeconomia | Data dostępu: 05/04/2025)
+*   **2013:** Płatności NFC (przy pomocy karty SIM) - korzystało ponad 34 tys. osób w Polsce. (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 15, powołując się na gomobi.pl | Data dostępu: 05/04/2025)
+*   **2014 (początek roku):** Około 6-7 milionów Polaków posiadało telefon pozwalający swobodnie korzystać ze stron internetowych i obsługiwać konto bankowe. (Źródło: Artykuł "Rynek płatności mobilnych w Polsce", Annales H - Oeconomia, powołując się na "Finanse w Internecie", 2013 | Data dostępu: 05/04/2025)
+*   **2014 (początek roku):** Prawie 44% Polaków posiadało smartfona. (Źródło: Artykuł "Rynek płatności mobilnych w Polsce", Annales H - Oeconomia, powołując się na Olczakiewicz, 2013 | Data dostępu: 05/04/2025)
+*   **2014'Q1:** Urządzenia mobilne odpowiadały za 10,17% całego ruchu w sieci w Polsce (smartfony 7,45%, tablety 2,62%). (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 13, powołując się na Gemius S.A., Ranking.pl | Data dostępu: 05/04/2025)
+
+**Adopcja bankowości mobilnej i płatności mobilnych:**
+
+*   **III kw. 2023 - Adopcja bankowości mobilnej:** Liczba aktywnych użytkowników aplikacji mobilnych wzrosła o 3% w stosunku do poprzedniego kwartału, osiągając 21,2 mln. (Źródło: ZBP - Raport NetB@nk III kw 2023, https://zbp.pl/Aktualnosci/Wydarzenia/Raport-NetB@nk-III-kw-2023, Data dostępu: 2025-04-05)
+*   **III kw. 2023 - Adopcja bankowości mobilnej (mobile only):** Liczba aktywnych użytkowników korzystających wyłącznie z aplikacji mobilnych (mobile only) wzrosła o 4% w stosunku do poprzedniego kwartału, osiągając niemal 15 mln. (Źródło: ZBP - Raport NetB@nk III kw 2023, https://zbp.pl/Aktualnosci/Wydarzenia/Raport-NetB@nk-III-kw-2023, Data dostępu: 2025-04-05)
+*   **III kw. 2023 - Adopcja bankowości mobilnej (mobile only):** 71% użytkowników bankowości mobilnej loguje się co najmniej raz w miesiącu do aplikacji mobilnej, nie korzystając równocześnie z bankowości internetowej. (Źródło: ZBP - Raport NetB@nk III kw 2023, https://zbp.pl/Aktualnosci/Wydarzenia/Raport-NetB@nk-III-kw-2023, Data dostępu: 2025-04-05)
+*   **2024 - Adopcja płatności mobilnych (portfele cyfrowe):** 30% Polaków korzystało z portfeli cyfrowych (np. Apple Pay, Google Pay), wzrost o 3 p.p. względem 2023 r. (Źródło: Adyen Retail Report 2024 via PRNews.pl, https://prnews.pl/sprawdzili-jak-placa-polacy-jest-jeden-niekwestionowany-lider-platnosci-482171, Data dostępu: 2025-04-05)
+*   **2024 - Adopcja płatności kodami QR:** 18% Polaków korzystało z płatności kodami QR, wzrost o 5 p.p. w porównaniu do 2023 r. (Źródło: Adyen Retail Report 2024 via PRNews.pl, https://prnews.pl/sprawdzili-jak-placa-polacy-jest-jeden-niekwestionowany-lider-platnosci-482171, Data dostępu: 2025-04-05)
+*   **2024 - Adopcja BNPL (Kup teraz, zapłać później):** 28% Polaków korzystało z BNPL, wzrost o 11 p.p. w porównaniu do 2023 r. (Źródło: Adyen Retail Report 2024 via PRNews.pl, https://prnews.pl/sprawdzili-jak-placa-polacy-jest-jeden-niekwestionowany-lider-platnosci-482171, Data dostępu: 2025-04-05)
+
+**Liczba transakcji mobilnych:**
+
+*   **II kw. 2023 - Liczba transakcji mobilnych (zbliżeniowe):** Klienci największych banków (wg Cashless) wykonali łącznie 343,87 mln zbliżeniowych transakcji mobilnych. (Źródło: Cashless, https://www.cashless.pl/14158-apple-pay-google-pay-liczba-platnosci-2-kw-2023, Data dostępu: 2025-04-05)
+*   **II kw. 2022 - Liczba transakcji mobilnych (zbliżeniowe):** Klienci największych banków (wg Cashless) wykonali łącznie 251,49 mln zbliżeniowych transakcji mobilnych. (Źródło: Cashless, https://www.cashless.pl/14158-apple-pay-google-pay-liczba-platnosci-2-kw-2023, Data dostępu: 2025-04-05)
+
+**Dane dotyczące BLIK i rynku e-commerce:**
+
+*   **2020 (II kwartał):** BLIK - znaczący wzrost liczby transakcji (o 35%) i ich wartości (o 36%) w I półroczu 2020 w porównaniu do II półrocza 2019. Średnia dzienna liczba transakcji BLIK wyniosła 954,7 tys. (Źródło: Raport ZBP "Rynek usług płatniczych w Polsce", grudzień 2020 | Data dostępu: 05/04/2025)
+*   **2023:** BLIK - niemal 1,8 mld transakcji o wartości blisko ćwierć biliona złotych (ok. 250 mld zł). (Źródło: Opis wyniku wyszukiwania dla artykułu na blik.com "BLIK podsumowuje 2023 r..." | Data dostępu: 05/04/2025)
+*   **2024:** BLIK stał się najpopularniejszą formą płatności za e-zakupy (68%), wyprzedzając szybki przelew (64%) i kartę kredytową (43%). Szczególnie popularny w grupie 15-24 lat (86%) i 25-34 lat (82%). (Źródło: Raport IAB Polska "E-commerce w Polsce 2024" | Data dostępu: 05/04/2025)
+
+**Udział rynkowy / Popularność dostawców:**
+
+*   **2024 - Udział rynkowy BLIK:** BLIK docierał do około 95% rynku. (Źródło: Adyen Retail Report 2024 via PRNews.pl, https://prnews.pl/sprawdzili-jak-placa-polacy-jest-jeden-niekwestionowany-lider-platnosci-482171, Data dostępu: 2025-04-05)
+*   **2021 - Preferencje płatności w internecie (ogółem):** BLIK był najczęściej preferowaną metodą (27% respondentów). (Źródło: Badanie Blue Media via PRNews.pl, https://prnews.pl/blik-najpopularniejszy-najmlodsi-lubia-google-pay-wyniki-badania-459912, Data dostępu: 2025-04-05)
+*   **2021 - Preferencje płatności w internecie (najmłodsi):** Najmłodsi respondenci częściej preferowali Google Pay (14% wskazań w tej grupie wiekowej). (Źródło: Badanie Blue Media via PRNews.pl, https://prnews.pl/blik-najpopularniejszy-najmlodsi-lubia-google-pay-wyniki-badania-459912, Data dostępu: 2025-04-05)
+*   **Czerwiec 2020 - Popularność Google Pay (SGB):** 14 855 urządzeń, 103 tys. transakcji, 5,1 mln zł wartości. (Źródło: Cashless, https://www.cashless.pl/8255-apple-pay-google-pay-popularnosc-w-polsce, Data dostępu: 2025-04-05)
+*   **Czerwiec 2020 - Popularność Apple Pay (SGB):** 12 600 urządzeń, 108 tys. transakcji, 6,7 mln zł wartości. (Źródło: Cashless, https://www.cashless.pl/8255-apple-pay-google-pay-popularnosc-w-polsce, Data dostępu: 2025-04-05)
+*   **Czerwiec 2020 - Popularność Garmin Pay (SGB):** 428 urządzeń, 3,8 tys. transakcji, 265 tys. zł wartości. (Źródło: Cashless, https://www.cashless.pl/8255-apple-pay-google-pay-popularnosc-w-polsce, Data dostępu: 2025-04-05)
+*   **Czerwiec 2020 - Popularność Fitbit Pay (SGB):** 11 urządzeń, 259 transakcji, 12 tys. zł wartości. (Źródło: Cashless, https://www.cashless.pl/8255-apple-pay-google-pay-popularnosc-w-polsce, Data dostępu: 2025-04-05)
+*   **Czerwiec 2020 - Popularność Blik (SGB):** 43 tys. aktywnych klientów, 97 tys. transakcji, 11,7 mln zł wartości (głównie internet). (Źródło: Cashless, https://www.cashless.pl/8255-apple-pay-google-pay-popularnosc-w-polsce, Data dostępu: 2025-04-05)
+
+**Prognozy:**
+
+*   **Prognoza 2014 (koniec roku):** Udział urządzeń mobilnych w całkowitym ruchu w sieci w Polsce może osiągnąć nawet 20%. (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 15 | Data dostępu: 05/04/2025)
+*   **Prognoza 2015 (początek roku):** Szacowano, że około 60% Polaków będzie użytkownikami smartfonów. (Źródło: Artykuł "Rynek płatności mobilnych w Polsce", Annales H - Oeconomia, powołując się na Olczakiewicz, 2013 | Data dostępu: 05/04/2025)
+*   **Prognoza 2020:** Szacowano, że usługi płatności NFC skupią ponad 400 tys. osób, a rynek ten będzie wart około 140 mld zł. (Źródło: Raport IAB Polska "Mobile Online w Polsce", 2014, s. 15, powołując się na gomobi.pl | Data dostępu: 05/04/2025)
+
+**Niemcy - Rynek Płatności Mobilnych**
+
+**1. Całkowita wartość i/lub liczba transakcji mobilnych:**
+
+*   **2023 (Wartość):** 1,81 mld USD (szacunkowa wartość rynku płatności mobilnych).
+    *   *Źródło:* Next Move Strategy Consulting, "Germany Mobile Payment Market – Opportunity Analysis and Industry Forecast, 2024–2030" (Raport z 06.01.2025). Data dostępu: 05.04.2025.
+*   **2023 (Liczba):** Brak danych.
+*   **2021 (Liczba):**
+    *   ok. 3% transakcji w punktach sprzedaży (POS) dokonano smartfonem.
+    *   ok. 3% płatności P2P (peer-to-peer) dokonano smartfonem.
+    *   *Źródło:* Bundesbank, "Mobile payment usage in Germany", Artykuł z Raportu Miesięcznego, Styczeń 2023 (na podstawie badania z 2021 r.). [https://www.bundesbank.de/resource/blob/825910/9d1f089aa69cefd503c86310317e5279/472B63F073F071307366337C94F8C870/2023-01-mobile-payments-data.pdf](https://www.bundesbank.de/resource/blob/825910/9d1f089aa69cefd503c86310317e5279/472B63F073F071307366337C94F8C870/2023-01-mobile-payments-data.pdf)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2020 (Liczba/Wartość):**
+    *   ok. 2% transakcji i obrotów w POS dokonano metodami mobilnymi.
+    *   *Źródło:* Bundesbank, "Mobile payment usage in Germany", Artykuł z Raportu Miesięcznego, Styczeń 2023 (na podstawie badania z 2020 r.). [https://www.bundesbank.de/resource/blob/825910/9d1f089aa69cefd503c86310317e5279/472B63F073F071307366337C94F8C870/2023-01-mobile-payments-data.pdf](https://www.bundesbank.de/resource/blob/825910/9d1f089aa69cefd503c86310317e5279/472B63F073F071307366337C94F8C870/2023-01-mobile-payments-data.pdf)
+    *   *Data dostępu:* 5 kwietnia 2025
+
+**2. Procentowy udział wartości i/lub liczby transakcji mobilnych w całości płatności bezgotówkowych:**
+
+*   **2023 (Liczba):** Udział transakcji mobilnych w POS potroił się, osiągając 6% wszystkich transakcji.
+    *   *Źródło:* Deutsche Bundesbank, "Payment behaviour in Germany in 2023" (Komunikat prasowy z 2023). Data dostępu: 05.04.2025.
+*   **2021 (Liczba - szacunek):** ok. 14,3% (obliczone na podstawie danych Bundesbanku: 6% transakcji mobilnych / 42% transakcji bezgotówkowych).
+    *   *Źródła danych bazowych:* Bundesbank, "Payment behaviour in Germany in 2021", Komunikat prasowy, 6 lipca 2022 oraz Bundesbank, "Mobile payment usage in Germany", Artykuł z Raportu Miesięcznego, Styczeń 2023.
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2021 (Wartość):** Brak bezpośrednich danych do obliczenia. Płatności bezgotówkowe stanowiły 70% wartości transakcji.
+    *   *Źródło danych bazowych:* Bundesbank, "Payment behaviour in Germany in 2021", Komunikat prasowy, 6 lipca 2022.
+    *   *Data dostępu:* 5 kwietnia 2025
+
+**3. Podział wartości i/lub liczby transakcji mobilnych według kategorii usług:**
+
+*   **POS (Point of Sale):**
+    *   **2024 (I połowa):** Płatności mobilne stanowiły 14% wszystkich płatności kartą w punktach sprzedaży (POS).
+        *   *Źródło:* Banque de France, "Présentation des statistiques de fraude au 1er semestre 2024 par l’OSMP", Dostęp: 05.04.2025. (Uwaga: Dane z Francji, mogą wskazywać na trend w Niemczech)
+    *   **2021:** ok. 3% wszystkich transakcji POS.
+        *   *Źródło:* Bundesbank, "Mobile payment usage in Germany", Artykuł z Raportu Miesięcznego, Styczeń 2023.
+        *   *Data dostępu:* 5 kwietnia 2025
+*   **P2P (Peer-to-Peer):**
+    *   **2021:** ok. 3% wszystkich transakcji P2P.
+        *   *Źródło:* Bundesbank, "Mobile payment usage in Germany", Artykuł z Raportu Miesięcznego, Styczeń 2023.
+        *   *Data dostępu:* 5 kwietnia 2025
+*   **Online / In-app:** Brak bezpośrednich danych dla płatności *mobilnych* w tych kategoriach. Płatności e-payment (ogólnie, nie tylko mobilne) stanowiły ok. 50% transakcji e-commerce w 2021.
+    *   *Źródło:* Bundesbank, "Payment behaviour in Germany in 2021", Komunikat prasowy, 6 lipca 2022.
+    *   *Data dostępu:* 5 kwietnia 2025
+
+**4. Udział rynkowy kluczowych dostawców:**
+
+*   **2024 (POS - jakościowo):** PayPal jest najczęściej używaną marką płatności zbliżeniowych w POS wśród respondentów ankiety.
+    *   *Źródło:* Statista, "Biggest contactless payment brands at POS in Germany as of December 2024". Data dostępu: 05.04.2025.
+*   **2021 (POS - udział wśród użytkowników mobilnych):**
+    *   Apple Pay: 38%
+    *   Aplikacje bankowe/kas oszczędnościowych: 25%
+    *   Google Pay: 18%
+    *   *Źródło:* Bundesbank, "Mobile payment usage in Germany", Artykuł z Raportu Miesięcznego, Styczeń 2023.
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2021 (P2P - jakościowo):** Głównie PayPal, giropay/Kwitt.
+    *   *Źródło:* Bundesbank, "Mobile payment usage in Germany", Artykuł z Raportu Miesięcznego, Styczeń 2023.
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **Kluczowi gracze (lista):** Alphabet (Google), Amazon, Apple, Mastercard, PayPal, Visa, Tencent (WeChat).
+    *   *Źródło:* Next Move Strategy Consulting, "Germany Mobile Payment Market – Opportunity Analysis and Industry Forecast, 2024–2030" (Raport z 06.01.2025). Data dostępu: 05.04.2025.
+
+**5. Trendy, adopcja i wykorzystanie:**
+
+*   **Adopcja (użycie co najmniej raz):**
+    *   POS: 4% (2018) -> 20% (Q2 2024) respondentów.
+    *   P2P: 5% (2017) -> 28% (2021) respondentów.
+    *   *Źródła:* Statista (2024), Bundesbank (2023).
+*   **Powody użycia (2024):** Szybkość i wygoda (56% respondentów), higiena (27% respondentów).
+    *   *Źródło:* Statista, "Reason to use mobile payment in Germany 2024". Data dostępu: 05.04.2025.
+*   **Bariery (2021):** Obawy o bezpieczeństwo, fragmentacja rynku, historycznie wolniejsza adaptacja infrastruktury NFC.
+    *   *Źródło:* Bundesbank, "Mobile payment usage in Germany" (Styczeń 2023).
+*   **Prognozy:**
+    *   Wzrost wartości rynku do 5,13 mld USD w 2030 r. (CAGR 15,1% od 2024).
+    *   *Źródło:* Next Move Strategy Consulting, "Germany Mobile Payment Market – Opportunity Analysis and Industry Forecast, 2024–2030" (Raport z 06.01.2025).
+
+**Szwecja - Rynek Płatności Mobilnych**
+
+*   **2023 (Liczba transakcji Swish):** 969 milionów transakcji (wzrost z 866 mln w 2022).
+    *   *Źródło:* Statista, "Number of Swish payments in Sweden from 2013 to 2023". [https://www.statista.com/statistics/449291/swish-number-of-payments-sweden/](https://www.statista.com/statistics/449291/swish-number-of-payments-sweden/)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2023 (Wartość transakcji Swish):** 609 miliardów SEK (wzrost z 506 mld SEK w 2022).
+    *   *Źródło:* Statista, "Value of Swish payments in Sweden from 2013 to 2023". [https://www.statista.com/statistics/449292/swish-value-of-payments-sweden/](https://www.statista.com/statistics/449292/swish-value-of-payments-sweden/)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2023 (Użytkownicy Swish):** 8,7 miliona użytkowników prywatnych.
+    *   *Źródło:* Statista, "Number of Swish users in Sweden from 2013 to 2023". [https://www.statista.com/statistics/449290/swish-number-of-users-sweden/](https://www.statista.com/statistics/449290/swish-number-of-users-sweden/)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2022 (Udział Swish w płatnościach P2P):** Swish był używany w 94% płatności P2P.
+    *   *Źródło:* Sveriges Riksbank, "Payments in Sweden 2022". [https://www.riksbank.se/en-gb/statistics/payments-in-sweden/payments-in-sweden-2022/](https://www.riksbank.se/en-gb/statistics/payments-in-sweden/payments-in-sweden-2022/)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2022 (Udział Swish w płatnościach e-commerce):** Swish był używany w 50% płatności e-commerce.
+    *   *Źródło:* Sveriges Riksbank, "Payments in Sweden 2022". [https://www.riksbank.se/en-gb/statistics/payments-in-sweden/payments-in-sweden-2022/](https://www.riksbank.se/en-gb/statistics/payments-in-sweden/payments-in-sweden-2022/)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2022 (Udział Swish w płatnościach POS):** Swish był używany w 1% płatności w punktach sprzedaży.
+    *   *Źródło:* Sveriges Riksbank, "Payments in Sweden 2022". [https://www.riksbank.se/en-gb/statistics/payments-in-sweden/payments-in-sweden-2022/](https://www.riksbank.se/en-gb/statistics/payments-in-sweden/payments-in-sweden-2022/)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2022 (Adopcja płatności mobilnych):** 85% populacji w wieku 15-84 lat używało Swish.
+    *   *Źródło:* Sveriges Riksbank, "Payments in Sweden 2022". [https://www.riksbank.se/en-gb/statistics/payments-in-sweden/payments-in-sweden-2022/](https://www.riksbank.se/en-gb/statistics/payments-in-sweden/payments-in-sweden-2022/)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2022 (Adopcja płatności mobilnych w POS):** 13% respondentów zapłaciło smartfonem w punkcie sprzedaży w ciągu ostatniego miesiąca.
+    *   *Źródło:* Sveriges Riksbank, "Payments in Sweden 2022". [https://www.riksbank.se/en-gb/statistics/payments-in-sweden/payments-in-sweden-2022/](https://www.riksbank.se/en-gb/statistics/payments-in-sweden/payments-in-sweden-2022/)
+    *   *Data dostępu:* 5 kwietnia 2025
+
+**Finlandia - Rynek Płatności Mobilnych**
+
+*   **2023 (Adopcja MobilePay):** 2,5 miliona użytkowników.
+    *   *Źródło:* MobilePay, "MobilePay merges with Norwegian Vipps". [https://mobilepay.fi/uutiset/2023/10/27/mobilepay-merges-with-norwegian-vipps](https://mobilepay.fi/uutiset/2023/10/27/mobilepay-merges-with-norwegian-vipps)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2022 (Adopcja płatności mobilnych):** 77% Finów w wieku 15-79 lat dokonało płatności mobilnej w ciągu ostatnich 12 miesięcy.
+    *   *Źródło:* Bank of Finland, "Finns' payment habits 2022". [https://www.suomenpankki.fi/en/statistics/payment-statistics/finns-payment-habits-2022/](https://www.suomenpankki.fi/en/statistics/payment-statistics/finns-payment-habits-2022/)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2022 (Preferencje płatności mobilnych):**
+    *   MobilePay: 56% użytkowników płatności mobilnych.
+    *   Aplikacje bankowe (np. OP-mobile, Nordea Siirto): 44% użytkowników płatności mobilnych.
+    *   Pivo: 18% użytkowników płatności mobilnych.
+    *   Apple Pay: 10% użytkowników płatności mobilnych.
+    *   Google Pay: 7% użytkowników płatności mobilnych.
+    *   *Źródło:* Bank of Finland, "Finns' payment habits 2022". [https://www.suomenpankki.fi/en/statistics/payment-statistics/finns-payment-habits-2022/](https://www.suomenpankki.fi/en/statistics/payment-statistics/finns-payment-habits-2022/)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2022 (Wykorzystanie płatności mobilnych):**
+    *   Płatności P2P: 66% użytkowników płatności mobilnych.
+    *   Płatności online: 58% użytkowników płatności mobilnych.
+    *   Płatności w POS: 38% użytkowników płatności mobilnych.
+    *   *Źródło:* Bank of Finland, "Finns' payment habits 2022". [https://www.suomenpankki.fi/en/statistics/payment-statistics/finns-payment-habits-2022/](https://www.suomenpankki.fi/en/statistics/payment-statistics/finns-payment-habits-2022/)
+    *   *Data dostępu:* 5 kwietnia 2025
+
+**Dania - Rynek Płatności Mobilnych**
+
+*   **2023 (Użytkownicy MobilePay):** 4,5 miliona użytkowników.
+    *   *Źródło:* MobilePay, "MobilePay merges with Norwegian Vipps". [https://mobilepay.fi/uutiset/2023/10/27/mobilepay-merges-with-norwegian-vipps](https://mobilepay.fi/uutiset/2023/10/27/mobilepay-merges-with-norwegian-vipps)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2023 (Liczba transakcji MobilePay):** 558 milionów transakcji.
+    *   *Źródło:* MobilePay, "MobilePay merges with Norwegian Vipps". [https://mobilepay.fi/uutiset/2023/10/27/mobilepay-merges-with-norwegian-vipps](https://mobilepay.fi/uutiset/2023/10/27/mobilepay-merges-with-norwegian-vipps)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2021 (Adopcja płatności mobilnych w POS):** 41% Duńczyków zapłaciło smartfonem w punkcie sprzedaży w ciągu ostatniego roku.
+    *   *Źródło:* Danmarks Nationalbank, "Payments in Denmark 2021". [https://www.nationalbanken.dk/en/publications/analyses/2022/payments-in-denmark-2021](https://www.nationalbanken.dk/en/publications/analyses/2022/payments-in-denmark-2021)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2021 (Udział płatności mobilnych w POS):** Płatności mobilne stanowiły 16% wszystkich płatności w punktach sprzedaży (wzrost z 1% w 2017).
+    *   *Źródło:* Danmarks Nationalbank, "Payments in Denmark 2021". [https://www.nationalbanken.dk/en/publications/analyses/2022/payments-in-denmark-2021](https://www.nationalbanken.dk/en/publications/analyses/2022/payments-in-denmark-2021)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2021 (Preferencje płatności mobilnych w POS):**
+    *   MobilePay: 84% użytkowników płatności mobilnych w POS.
+    *   Apple Pay: 24% użytkowników płatności mobilnych w POS.
+    *   Google Pay: 6% użytkowników płatności mobilnych w POS.
+    *   *Źródło:* Danmarks Nationalbank, "Payments in Denmark 2021". [https://www.nationalbanken.dk/en/publications/analyses/2022/payments-in-denmark-2021](https://www.nationalbanken.dk/en/publications/analyses/2022/payments-in-denmark-2021)
+    *   *Data dostępu:* 5 kwietnia 2025
+*   **2021 (Adopcja płatności P2P):** 84% Duńczyków w wieku 15-79 lat dokonało płatności P2P w ciągu ostatniego roku, głównie za pomocą MobilePay.
+    *   *Źródło:* Danmarks Nationalbank, "Payments in Denmark 2021". [https://www.nationalbanken.dk/en/publications/analyses/2022/payments-in-denmark-2021](https://www.nationalbanken.dk/en/publications/analyses/2022/payments-in-denmark-2021)
+    *   *Data dostępu:* 5 kwietnia 2025
+
+**Rumunia - Rynek Płatności Mobilnych**
+
+**1. Całkowita wartość i/lub liczba transakcji mobilnych:**
+
+*   Brak znalezionych konkretnych danych dotyczących *wyłącznie* płatności mobilnych.
+*   Kontekstowo: Rynek płatności kartami w Rumunii dynamicznie rośnie. W 2023 roku wartość transakcji kartami wyniosła 62,2 mld USD. Prognozowany CAGR (skumulowany roczny wskaźnik wzrostu) na lata 2024-2028 wynosi ponad 12%.
+    *   *Źródło:* GlobalData, "Romania Cards and Payments Market Analysis...", Styczeń 2024. Data dostępu: 05.04.2025.
+
+**2. Procentowy udział wartości i/lub liczby transakcji mobilnych w całości płatności bezgotówkowych:**
+
+*   Brak znalezionych konkretnych danych.
+*   Kontekstowo: Użycie internetu/bankowości mobilnej do płatności wzrosło z 27% (2020) do 46% (2022) wśród użytkowników usług bankowych.
+    *   *Źródło:* Ziarul Financiar / IRES, "Studiu IRES...", Październik 2022. Data dostępu: 05.04.2025.
+
+**3. Podział wartości i/lub liczby transakcji mobilnych według kategorii usług (POS, P2P, online, in-app):**
+
+*   Brak znalezionych danych w publicznie dostępnych źródłach.
+
+**4. Udział rynkowy kluczowych dostawców:**
+
+*   Brak znalezionych danych dotyczących udziału rynkowego poszczególnych dostawców (aplikacje bankowe, portfele mobilne).
+*   Kontekstowo: Revolut jest znaczącym graczem na rynku, posiadając ponad 3,5 miliona klientów w Rumunii w styczniu 2024 roku.
+    *   *Źródło:* GlobalData, "Romania Cards and Payments Market Analysis...", Styczeń 2024. Data dostępu: 05.04.2025.
+
+**5. Trendy, adopcja i wykorzystanie:**
+
+*   **Dynamiczny wzrost:** Obserwowany jest szybki wzrost adopcji płatności mobilnych i cyfrowych.
+*   **Popularność bankowości mobilnej:** W 2022 roku 46% użytkowników usług bankowych korzystało z bankowości mobilnej, głównie za pomocą smartfonów (ok. 90%).
+    *   *Źródło:* Ziarul Financiar / IRES, "Studiu IRES...", Październik 2022. Data dostępu: 05.04.2025.
+*   **Rozwój infrastruktury:** Wdrażane są płatności natychmiastowe (np. Alias Pay przez Transfond).
+*   **Nowi gracze:** Na rynek wchodzą banki cyfrowe (np. Revolut, SALT Bank - należący do Banca Transilvania) oraz usługi BNPL (Buy Now Pay Later, np. Klarna).
+*   **Rola gotówki:** Mimo cyfryzacji, gotówka nadal odgrywa istotną rolę. W 2022 roku tylko 13% Rumunów deklarowało używanie wyłącznie gotówki, ale 23% używało jej jako głównej metody płatności.
+    *   *Źródło:* Ziarul Financiar / IRES, "Studiu IRES...", Październik 2022. Data dostępu: 05.04.2025.
+
+*Uwaga: Znalezienie kompleksowych, publicznie dostępnych danych statystycznych dla rynku płatności mobilnych w Rumunii, zwłaszcza obejmujących cały okres 2010-2025 i zawierających szczegółowe podziały, okazało się trudne. Wiele informacji znajduje się prawdopodobnie w płatnych raportach lub nie jest publikowanych.*
+
+
+**Francja - Rynek Płatności Mobilnych (Dane zebrane 05.04.2025)**
+
+**1. Całkowita wartość i/lub liczba transakcji mobilnych:**
+
+*   **2018:**
+    *   Liczba użytkowników: 5,7 miliona.
+    *   Średnia roczna wartość transakcji na użytkownika: 667 €.
+    *   *Źródło:* Statista, "Graphique: Le paiement mobile commence à décoller en France", Dostęp: 05.04.2025, (Na podstawie danych Statista Digital Market Outlook).
+*   **2019:**
+    *   Średnia roczna wartość transakcji mobilnych na użytkownika: Nieco ponad 1000 €.
+    *   *Źródło:* Statista, "Graphique: Le paiement mobile reste très marginal en France", Dostęp: 05.04.2025, (Na podstawie danych Statista Digital Market Outlook).
+*   **2023:**
+    *   Ogólny wzrost płatności skrypturalnych (w tym mobilnych): +5,4% w wolumenie.
+    *   Całkowita liczba płatności skrypturalnych: 31,1 miliarda.
+    *   *Źródło:* Modelesdebusinessplan.com, "14 tendances sur le marché des paiements en 2025", Dostęp: 05.04.2025 (Powołując się m.in. na Banque de France).
+    *   *Źródło:* Banque de France, "Annual Activity Report of the Observatory for the Security of Payment Means 2023", Dostęp: 05.04.2025.
+
+**2. Procentowy udział wartości i/lub liczby transakcji mobilnych w całości płatności bezgotówkowych:**
+
+*   **2019:**
+    *   Wskaźnik penetracji płatności mobilnych: 2,2%.
+    *   *Źródło:* Statista, "Graphique: Le paiement mobile reste très marginal en France", Dostęp: 05.04.2025, (Na podstawie danych Statista Digital Market Outlook).
+*   **2023:**
+    *   Płatności mobilne (portfele mobilne) stanowiły **10%** wszystkich płatności zbliżeniowych kartą.
+    *   *Źródło:* Banque de France, "Annual Activity Report of the Observatory for the Security of Payment Means 2023", Dostęp: 05.04.2025.
+*   **2024 (I połowa):**
+    *   Płatności mobilne (portfele mobilne) stanowiły **14%** wszystkich płatności kartą w punktach sprzedaży (POS).
+    *   *Źródło:* Banque de France, "Présentation des statistiques de fraude au 1er semestre 2024 par l’OSMP", Dostęp: 05.04.2025.
+*   **2024:**
+    *   Płatności mobilne stanowiły około **15%** transakcji kartą.
+    *   *Źródło:* Modelesdebusinessplan.com, "14 tendances sur le marché des paiements en 2025", Dostęp: 05.04.2025 (Powołując się m.in. na Xerfi, Powens).
+
+**3. Podział wartości i/lub liczby transakcji mobilnych według kategorii usług:**
+
+*   **Płatności mobilne bezkontaktowe (POS):**
+    *   **2024:** 63% Francuzów deklaruje znajomość i używanie (wzrost o 8 p.p. vs 2023). Najpopularniejsze wśród osób 16-34 lat.
+    *   *Źródło:* Républik Retail, "Les 10 chiffres clés sur le paiement mobile en France", Dostęp: 05.04.2025 (Badanie OpinionWay dla Lyf, luty 2024).
+*   **Użycie Wallets (POS/Online/In-app):**
+    *   **2024:** 38% Francuzów deklaruje używanie (wzrost o 6 p.p. vs 2023). Najwyższy wskaźnik (56%) w grupie 16-24 lat. Wyższy w regionie paryskim (48%) niż w reszcie kraju (36%).
+    *   *Źródło:* Républik Retail, "Les 10 chiffres clés sur le paiement mobile en France", Dostęp: 05.04.2025 (Badanie OpinionWay dla Lyf, luty 2024).
+*   **Płatności P2P:**
+    *   **2024:** Używane przez 66% osób w wieku 16-24 lat vs 26% osób >50 lat. Popularne aplikacje: Lydia, Pumpkin.
+    *   *Źródło:* Républik Retail, "Les 10 chiffres clés sur le paiement mobile en France", Dostęp: 05.04.2025 (Badanie OpinionWay dla Lyf, luty 2024).
+    *   *Źródło:* Modelesdebusinessplan.com, "14 tendances sur le marché des paiements en 2025", Dostęp: 05.04.2025.
+*   **Płatności w restauracjach (zamawianie/płacenie przy stoliku):**
+    *   **2024:** Znane i używane przez 50% Francuzów. Popularniejsze w regionie paryskim (55%) niż w reszcie kraju (49%).
+    *   *Źródło:* Républik Retail, "Les 10 chiffres clés sur le paiement mobile en France", Dostęp: 05.04.2025 (Badanie OpinionWay dla Lyf, luty 2024).
+
+**4. Udział rynkowy kluczowych dostawców:**
+
+*   Brak szczegółowych danych procentowych dotyczących udziału rynkowego poszczególnych dostawców (CB, Paylib, Lydia, Apple Pay, Google Pay etc.) w znalezionych źródłach. Wspomniano jedynie o popularności aplikacji takich jak Lydia i Pumpkin w kontekście P2P oraz o potencjalnej integracji usług geolokalizacyjnych przez Apple Pay i Google Pay.
+
+**5. Trendy, adopcja i wykorzystanie:**
+
+*   **Wzrost adopcji:** Płatności mobilne zyskują na popularności, szczególnie płatności zbliżeniowe i P2P, napędzane przez młodszych użytkowników i mieszkańców regionu paryskiego (Źródła: Républik Retail, Banque de France 2024).
+*   **Wzrost płatności zbliżeniowych z użyciem telefonu:** +61% w I połowie 2024 (Źródło: Banque de France 2024).
+*   **Bezpieczeństwo:** Płatności mobilne są postrzegane jako bezpieczne (63% uważa je za nie bardziej ryzykowne niż karty w 2024 - Républik Retail). Potwierdzają to niskie wskaźniki oszustw (0,021% w 2023, 0,019% w I poł. 2024 - Banque de France).
+*   **Płatności frakcjonowane (BNPL):** Rosnący rynek, prognoza 25-30 mld € w 2025 (Źródło: Modelesdebusinessplan.com powołując się na Xerfi).
+*   **Inne trendy:** Rozwój płatności w czasie rzeczywistym (SEPA Instant), zainteresowanie płatnościami w kryptowalutach (12% posiadaczy w 2024), popularność aplikacji z zarządzaniem budżetem, potencjał płatności zintegrowanych z programami lojalnościowymi, RA i geolokalizacją (Źródło: Modelesdebusinessplan.com).
+
+
+**Hiszpania - Rynek Płatności Mobilnych**
+
+**1. Całkowita wartość i/lub liczba transakcji mobilnych:**
+
+*   Brak bezpośrednich danych o całkowitej wartości/liczbie transakcji *wyłącznie* mobilnych.
+
+**2. Procentowy udział wartości i/lub liczby transakcji mobilnych w całości płatności bezgotówkowych:**
+
+*   **2022 (Liczba):**
+    *   POS (sklepy fizyczne): 3,7% liczby transakcji.
+    *   P2P (między osobami): 13% liczby transakcji.
+    *   *Źródło:* Banco de España, Boletín Económico 2023/T1 (na podstawie badania SPACE 2022). Data dostępu: 05.04.2025.
+*   **2019 (Liczba):**
+    *   POS: 0,9% liczby transakcji.
+    *   P2P: 3,5% liczby transakcji.
+    *   *Źródło:* Banco de España, Boletín Económico 2023/T1 (na podstawie badania SPACE 2019). Data dostępu: 05.04.2025.
+
+**3. Podział wartości i/lub liczby transakcji mobilnych według kategorii usług:**
+
+*   **POS (Point of Sale):**
+    *   **2022:** 3,7% liczby transakcji.
+    *   **2019:** 0,9% liczby transakcji.
+    *   *Źródło:* Banco de España, Boletín Económico 2023/T1. Data dostępu: 05.04.2025.
+*   **P2P (Peer-to-Peer):**
+    *   **2022:** 13% liczby transakcji.
+    *   **2019:** 3,5% liczby transakcji.
+    *   *Źródło:* Banco de España, Boletín Económico 2023/T1. Data dostępu: 05.04.2025.
+*   **Online:**
+    *   **2022:** Znaczący udział, szczególnie wśród młodych (ok. 35-40% użycia w grupie 18-39 lat).
+    *   *Źródło:* Banco de España, Boletín Económico 2023/T1. Data dostępu: 05.04.2025.
+*   **In-app:** Brak szczegółowych danych.
+
+**4. Udział rynkowy kluczowych dostawców:**
+
+*   **2021 (Portfele mobilne - Android):** Google Pay był najpopularniejszym portfelem wśród użytkowników Androida (60%).
+    *   *Źródło:* Pecunpay/Visa, II Estudio sobre tendencias de pago móvil en España, 2022. Data dostępu: 05.04.2025.
+*   **P2P:** Bizum jest kluczowym graczem.
+    *   *Źródło:* Banco de España, Boletín Económico 2023/T1. Data dostępu: 05.04.2025.
+*   Brak szczegółowych danych o udziałach rynkowych Apple Pay, Samsung Pay itp. w znalezionych raportach.
+
+**5. Trendy, adopcja i wykorzystanie:**
+
+*   **Adopcja (użycie telefonu do płatności):**
+    *   **Koniec 2021:** 37,5% ankietowanych. Płatności mobilne były trzecią preferowaną metodą płatności.
+    *   *Źródło:* Pecunpay/Visa, II Estudio sobre tendencias de pago móvil en España, 2022. Data dostępu: 05.04.2025.
+*   **Trendy:**
+    *   Silny wzrost użycia płatności mobilnych w latach 2019-2022, kosztem gotówki.
+    *   Największa popularność wśród osób młodych (18-39 lat).
+    *   Główne zalety postrzegane przez użytkowników: szybkość, łatwość użycia, kontrola wydatków.
+    *   Główne bariery: obawy o bezpieczeństwo (szczególnie wśród nieużytkowników), potrzeba szerszej akceptacji (transport publiczny, małe sklepy).
+    *   *Źródła:* Banco de España, Boletín Económico 2023/T1; Pecunpay/Visa, II Estudio sobre tendencias de pago móvil en España, 2022. Data dostępu: 05.04.2025.
+
+
+**Włochy - Rynek Płatności Mobilnych**
+
+**1. Całkowita wartość i/lub liczba transakcji mobilnych/cyfrowych:**
+
+*   **Wartość płatności cyfrowych (ogółem):**
+    *   2023: **444 miliardy EUR** (+12% r/r vs 2022) (Źródło: Pagamenti Digitali/Osservatori.net via Osservatorio Innovative Payments, dostęp: 05.04.2025)
+*   **Wartość płatności kartami (POS + Online):**
+    *   I połowa 2024: **223 miliardy EUR** (+8,6% r/r vs I poł. 2023) (Źródło: Pagamenti Digitali via Osservatorio Innovative Payments, dostęp: 05.04.2025)
+*   **Wartość płatności mobilnych i urządzeniami ubieralnymi (POS):**
+    *   2023: **19,9 miliarda EUR** (Źródło: HDblog.it via Osservatorio Innovative Payments, dostęp: 05.04.2025)
+*   **Wartość płatności mobilnych (ogółem):**
+    *   2019: ok. **3 miliardy EUR** (Źródło: Blog Osservatori.net, dostęp: 05.04.2025)
+*   **Liczba transakcji cyfrowych (ogółem):**
+    *   2023: **6,2 miliarda** (Źródło: Banca d'Italia, Statistiche SDP 23.05.2024, dostęp: 05.04.2025) LUB **12 miliardów** (Źródło: Il Sole 24 Ore, dostęp: 05.04.2025) - *Zauważono rozbieżność.*
+*   **Liczba operacji kartami kredytowymi:**
+    *   2023: **1,78 miliarda** (Źródło: Banca d'Italia, Statistiche SDP 23.05.2024, dostęp: 05.04.2025)
+*   **Liczba operacji kartami debetowymi na POS (i zdalnie/ATM od 2022):**
+    *   2023: **4,98 miliarda** (Źródło: Banca d'Italia, Statistiche SDP 23.05.2024, dostęp: 05.04.2025)
+
+**2. Procentowy udział wartości i/lub liczby transakcji mobilnych w całości płatności bezgotówkowych:**
+
+*   Brak bezpośrednich danych procentowych dotyczących udziału *wyłącznie* płatności mobilnych w całości płatności bezgotówkowych.
+
+**3. Podział wartości i/lub liczby transakcji mobilnych według kategorii usług:**
+
+*   **Płatności mobilne i urządzeniami ubieralnymi w punktach sprzedaży (POS):**
+    *   I połowa 2023: **12,2 miliarda EUR** (+97% r/r vs I poł. 2022) (Źródło: Osservatori.net/Industria Italiana via Osservatorio Innovative Payments, dostęp: 05.04.2025)
+*   **Płatności urządzeniami ubieralnymi (wearables):**
+    *   I połowa 2024: **2,5 miliarda EUR** (+57% r/r vs I poł. 2023) (Źródło: Osservatori.net via Osservatorio Innovative Payments, dostęp: 05.04.2025)
+*   **Płatności "Kup teraz, zapłać później" (BNPL) online:**
+    *   2023: **4,6 miliarda EUR** (stanowiło 6,5% rynku e-commerce) (Źródło: Osservatori.net via Osservatorio Innovative Payments, dostęp: 05.04.2025)
+*   *Brak szczegółowych danych dla P2P i in-app.*
+
+**4. Udział rynkowy kluczowych dostawców:**
+
+*   Brak publicznie dostępnych danych liczbowych dotyczących udziału rynkowego poszczególnych dostawców (Bancomat Pay, Satispay, PayPal, Apple Pay, Google Pay, aplikacje bankowe) za lata 2023 lub inne w badanym okresie. Informacje te mogą być zawarte w płatnych raportach (np. Statista, pełne raporty Osservatorio Innovative Payments).
+
+**5. Trendy, adopcja i wykorzystanie:**
+
+*   **Wzrost popularności:** Płatności mobilne (w sklepie, online, w ruchu) cieszyły się rosnącą popularnością w 2023 roku, z rosnącą liczbą regularnych użytkowników. (Źródło: Osservatori.net, dostęp: 05.04.2025)
+*   **Dominacja zbliżeniowości:** Prawie 8 na 10 transakcji cyfrowych w sklepach w 2023 roku było zbliżeniowych (karty NFC lub urządzenia mobilne/wearable). (Źródło: Osservatori.net, dostęp: 05.04.2025)
+*   **Rola smartfona:** Smartfon jest głównym motorem wzrostu płatności cyfrowych. (Źródło: Osservatori.net, dostęp: 05.04.2025)
+*   **Soft POS:** Pod koniec 2023 roku było 38 000 terminali Soft POS (na 3,2 mln wszystkich POS). (Źródło: Pagamenti Digitali via Osservatorio Innovative Payments, dostęp: 05.04.2025)
+*   **Liczba kart (koniec 2023):** Kredytowe: 16,61 mln, Debetowe: 61,91 mln, Przedpłacone: 33,00 mln. (Źródło: Banca d'Italia, Statistiche SDP 23.05.2024, dostęp: 05.04.2025)
+*   **Prognoza wzrostu (cały rynek płatności):** CAGR 11,04% w latach 2025-2030. (Źródło: Mordor Intelligence, dostęp: 05.04.2025)
+
+
+### Kraje Beneluksu (Belgia, Holandia, Luksemburg) - Rynek Płatności Mobilnych
+
+**Ogólna Charakterystyka:**
+
+*   Kraje Beneluksu charakteryzują się wysokim poziomem cyfryzacji i rozwiniętą infrastrukturą płatniczą.
+*   Rynek płatności mobilnych rozwijał się dynamicznie, choć z różną prędkością i specyfiką w każdym kraju.
+*   Dominują lokalne rozwiązania, często oparte na istniejących schematach płatniczych, ale rośnie znaczenie globalnych graczy (Apple Pay, Google Pay).
+*   Wprowadzenie płatności natychmiastowych (Instant Payments) i dyrektywy PSD2 miało istotny wpływ na rozwój rynku.
+
+**Belgia:**
+
+*   **Dominujące Rozwiązania:**
+    *   **Bancontact / Payconiq:** Kluczowe rozwiązanie na rynku belgijskim. Bancontact, tradycyjny schemat kart debetowych, zintegrował się z mobilną aplikacją Payconiq (wcześniej działającą niezależnie). Umożliwia płatności P2P, w sklepach (kody QR), online oraz płatności rachunków. Aplikacja Payconiq by Bancontact stała się standardem dla płatności mobilnych.
+    *   **Aplikacje Bankowe:** Główne banki (KBC/CBC, Belfius, ING, BNP Paribas Fortis) oferują własne aplikacje z funkcjami płatności mobilnych, często integrujące Bancontact/Payconiq.
+    *   **Apple Pay / Google Pay:** Zyskiwały na popularności, wspierane przez coraz większą liczbę banków.
+*   **Trendy:**
+    *   **Wzrost Płatności Zbliżeniowych i Mobilnych:** Szczególnie przyspieszony przez pandemię COVID-19. Płatności kodami QR (Payconiq) stały się bardzo popularne.
+    *   **Płatności Natychmiastowe:** Szeroko dostępne, wspierające rozwój płatności P2P.
+    *   **Open Banking (PSD2):** Umożliwił rozwój nowych usług i agregację kont.
+*   **Adopcja:** Wysoka adopcja płatności mobilnych, zwłaszcza aplikacji Payconiq by Bancontact.
+*   **Regulacje:** Nadzór sprawowany przez Narodowy Bank Belgii (NBB). Wdrożenie PSD2.
+*   **Prognozy (do 2025):** Dalszy wzrost płatności mobilnych, konsolidacja rynku wokół Payconiq by Bancontact oraz globalnych portfeli, rozwój usług opartych na Open Banking.
+
+**Holandia:**
+
+*   **Dominujące Rozwiązania:**
+    *   **iDEAL:** Choć pierwotnie system płatności online, iDEAL stał się podstawą dla wielu płatności mobilnych, zwłaszcza poprzez generowanie kodów QR w aplikacjach bankowych. W 2023 roku ogłoszono przejęcie iDEAL przez European Payments Initiative (EPI) i plany rozwoju nowego, paneuropejskiego rozwiązania opartego na iDEAL i Payconiq.
+    *   **Tikkie:** Bardzo popularna aplikacja (stworzona przez ABN AMRO, ale dostępna dla klientów wszystkich banków) do płatności P2P, oparta na iDEAL i WhatsApp. Umożliwia łatwe wysyłanie próśb o płatność.
+    *   **Aplikacje Bankowe:** Główne banki (ING, Rabobank, ABN AMRO, SNS, Knab) oferują zaawansowane aplikacje z płatnościami mobilnymi (często przez iDEAL QR).
+    *   **Apple Pay / Google Pay:** Szeroko dostępne i popularne.
+*   **Trendy:**
+    *   **Dominacja Płatności Online i Mobilnych:** Holandia jest jednym z liderów płatności cyfrowych w Europie. Płatności P2P (Tikkie) są wszechobecne.
+    *   **Płatności Natychmiastowe:** Standard w krajowych przelewach.
+    *   **Spadek Znaczenia Gotówki:** Użycie gotówki systematycznie maleje.
+    *   **Rozwój EPI:** Plany stworzenia nowego portfela cyfrowego opartego na iDEAL.
+*   **Adopcja:** Bardzo wysoka adopcja płatności cyfrowych i mobilnych. iDEAL jest najpopularniejszą metodą płatności online. Tikkie zdominowało płatności P2P.
+*   **Regulacje:** Nadzór sprawowany przez De Nederlandsche Bank (DNB). Wdrożenie PSD2.
+*   **Prognozy (do 2025):** Dalszy spadek użycia gotówki, rozwój nowego rozwiązania płatniczego w ramach EPI, utrzymanie silnej pozycji iDEAL (lub jego następcy) i Tikkie, wzrost znaczenia globalnych portfeli.
+
+**Luksemburg:**
+
+*   **Dominujące Rozwiązania:**
+    *   **Digicash / Payconiq:** Początkowo Digicash był lokalnym rozwiązaniem płatności mobilnych wspieranym przez główne banki. Następnie został zintegrowany z międzynarodową platformą Payconiq, tworząc aplikację Payconiq Digicash. Umożliwia płatności P2P, w sklepach (kody QR, Beacon), online, płatności rachunków.
+    *   **Aplikacje Bankowe:** Banki (BCEE, BGL BNP Paribas, Raiffeisen, Post) oferują własne aplikacje, często integrujące Payconiq Digicash.
+    *   **Apple Pay / Google Pay:** Stopniowo wprowadzane przez banki.
+*   **Trendy:**
+    *   **Wzrost Płatności Mobilnych:** Choć rynek mniejszy niż w Belgii czy Holandii, płatności mobilne zyskiwały na znaczeniu.
+    *   **Płatności Natychmiastowe:** Dostępne w ramach SEPA Instant Credit Transfer.
+    *   **Międzynarodowy Charakter Rynku:** Duże znaczenie transakcji transgranicznych.
+*   **Adopcja:** Rosnąca adopcja Payconiq Digicash, ale wciąż niższa niż lokalnych rozwiązań w Belgii czy Holandii.
+*   **Regulacje:** Nadzór sprawowany przez Commission de Surveillance du Secteur Financier (CSSF). Wdrożenie PSD2.
+*   **Prognozy (do 2025):** Dalszy wzrost adopcji Payconiq Digicash, zwiększenie dostępności Apple Pay/Google Pay, rozwój usług transgranicznych.
+
+**Źródła (Przykładowe):**
+
+*   Narodowy Bank Belgii (nbb.be)
+*   De Nederlandsche Bank (dnb.nl)
+*   Commission de Surveillance du Secteur Financier (cssf.lu)
+*   Bancontact Payconiq Company (bancontactpayconiq.com)
+*   iDEAL (ideal.nl)
+*   Tikkie (tikkie.me)
+*   European Payments Initiative (epicompany.eu)
+*   Raporty rynkowe (np. Statista, Deloitte, PwC)
+
+*Uwaga: Podobnie jak w przypadku innych krajów, szczegółowe dane statystyczne za cały okres 2010-2025 mogą być trudne do znalezienia w publicznie dostępnych źródłach.*
+
+
+**Austria - Rynek Płatności Mobilnych**
+
+**1. Całkowita wartość i/lub liczba transakcji mobilnych:**
+
+*   **Wydatki w M-Commerce (zakupy przez smartfony):**
+    *   2023: **2,35 miliarda EUR** (spadek o ok. 2% r/r vs 2022).
+    *   *Źródło:* Statista, "Mobile Commerce Ausgaben in Österreich", data publikacji tekstu: 22.06.2023, dostęp 05.04.2025.
+*   Brak znalezionych danych o całkowitej liczbie transakcji mobilnych.
+
+**2. Procentowy udział wartości i/lub liczby transakcji mobilnych w całości płatności bezgotówkowych:**
+
+*   Brak znalezionych danych.
+
+**3. Podział wartości i/lub liczby transakcji mobilnych według kategorii usług (POS, P2P, online, in-app):**
+
+*   Brak znalezionych danych.
+
+**4. Udział rynkowy kluczowych dostawców:**
+
+*   Brak znalezionych danych.
+
+**5. Trendy, adopcja i wykorzystanie:**
+
+*   **Adopcja płatności mobilnych (użycie co najmniej raz):**
+    *   **2021:** 28% respondentów używało płatności mobilnych (wzrost z 19% w 2019).
+    *   *Źródło:* Oesterreichische Nationalbank (OeNB), "Payment behaviour in Austria – results of the 2021 OeNB survey", dostęp 05.04.2025.
+*   **Preferencje płatności:**
+    *   **2021:** Płatności mobilne były preferowaną metodą dla 2% respondentów (wzrost z 1% w 2019). Dominowała gotówka (39%) i karta debetowa (31%).
+    *   *Źródło:* Oesterreichische Nationalbank (OeNB), "Payment behaviour in Austria – results of the 2021 OeNB survey", dostęp 05.04.2025.
+*   **Czynniki wzrostu:** Wygoda, szybkość, rosnąca akceptacja przez sprzedawców.
+*   **Bariery:** Obawy o bezpieczeństwo, preferencja dla tradycyjnych metod (gotówka, karta).
+
+
+### Kraje Nadbałtyckie (Estonia, Litwa, Łotwa) - Rynek Płatności Mobilnych
+
+**Ogólna Charakterystyka:**
+
+*   Kraje nadbałtyckie są znane z szybkiej cyfryzacji, innowacyjnego sektora fintech i wysokiego poziomu adopcji technologii cyfrowych, w tym bankowości internetowej i mobilnej.
+*   Rynek płatności mobilnych rozwijał się dynamicznie, napędzany przez zaawansowaną infrastrukturę, wspierające regulacje i aktywność banków oraz firm fintech.
+*   Dominującą rolę odgrywają duże banki skandynawskie (głównie Swedbank i SEB), które oferują popularne aplikacje bankowości mobilnej z funkcjami płatności.
+*   Płatności natychmiastowe (Instant Payments) są szeroko dostępne i popularne, wspierając rozwój płatności P2P i innych usług.
+*   Wpływ dyrektywy PSD2 stymulował rozwój Open Banking i pojawienie się nowych graczy na rynku.
+*   Globalne portfele mobilne (Apple Pay, Google Pay) zyskiwały na popularności wraz ze wzrostem wsparcia ze strony lokalnych banków.
+
+**Estonia:**
+
+*   **Dominujące Rozwiązania:**
+    *   **Aplikacje Bankowe:** Aplikacje oferowane przez Swedbank, SEB, LHV Pank i Luminor są głównymi narzędziami do płatności mobilnych. Umożliwiają przelewy (w tym natychmiastowe), płatności P2P, płatności zbliżeniowe (NFC), zarządzanie kartami.
+    *   **Apple Pay / Google Pay:** Dostępne dla klientów większości głównych banków, zyskujące na popularności.
+*   **Trendy:**
+    *   **Lider Cyfryzacji:** Estonia jest jednym z najbardziej zaawansowanych cyfrowo krajów na świecie, co przekłada się na wysoką adopcję płatności cyfrowych.
+    *   **Silny Sektor Fintech:** Rozwój innowacyjnych rozwiązań płatniczych.
+    *   **Płatności Natychmiastowe:** Powszechnie używane.
+    *   **Open Banking (PSD2):** Aktywne wykorzystanie przez banki i fintechy.
+*   **Adopcja:** Bardzo wysoka adopcja bankowości mobilnej i płatności cyfrowych.
+*   **Regulacje:** Nadzór sprawowany przez Eesti Pank (Bank Estonii) i Finantsinspektsioon (Estoński Urząd Nadzoru Finansowego). Wdrożenie PSD2.
+*   **Prognozy (do 2025):** Dalszy rozwój ekosystemu płatności cyfrowych, wzrost znaczenia globalnych portfeli, pojawianie się nowych usług opartych na Open Banking.
+
+**Litwa:**
+
+*   **Dominujące Rozwiązania:**
+    *   **Aplikacje Bankowe:** Podobnie jak w Estonii, aplikacje Swedbank, SEB i Luminor dominują na rynku. Oferują szeroki zakres funkcji płatniczych, w tym płatności zbliżeniowe i natychmiastowe przelewy.
+    *   **Apple Pay / Google Pay:** Dostępne dla klientów głównych banków.
+    *   **Lokalne Fintechy:** Litwa stała się ważnym centrum fintech w Europie, z wieloma firmami oferującymi specjalistyczne usługi płatnicze (choć często skierowane na rynki międzynarodowe).
+*   **Trendy:**
+    *   **Centrum Fintech:** Przyciąganie wielu firm fintech dzięki sprzyjającym regulacjom Banku Litwy.
+    *   **Wzrost Płatności Bezgotówkowych:** Szybki wzrost płatności kartami i mobilnych.
+    *   **Płatności Natychmiastowe:** Wysoka popularność.
+*   **Adopcja:** Wysoka i szybko rosnąca adopcja bankowości mobilnej i płatności cyfrowych.
+*   **Regulacje:** Nadzór sprawowany przez Lietuvos bankas (Bank Litwy). Aktywne wspieranie innowacji fintech. Wdrożenie PSD2.
+*   **Prognozy (do 2025):** Utrzymanie pozycji jako centrum fintech, dalszy dynamiczny wzrost płatności mobilnych, rosnąca konkurencja na rynku.
+
+**Łotwa:**
+
+*   **Dominujące Rozwiązania:**
+    *   **Aplikacje Bankowe:** Aplikacje Swedbank, SEB, Luminor oraz Citadele Banka są najczęściej używanymi narzędziami do płatności mobilnych.
+    *   **Apple Pay / Google Pay:** Stopniowo wprowadzane przez banki.
+*   **Trendy:**
+    *   **Cyfryzacja Usług Bankowych:** Podobnie jak w pozostałych krajach bałtyckich, wysoki poziom cyfryzacji.
+    *   **Wzrost Płatności Zbliżeniowych:** Popularność płatności zbliżeniowych kartami i urządzeniami mobilnymi.
+    *   **Płatności Natychmiastowe:** Szeroko dostępne.
+*   **Adopcja:** Wysoka adopcja bankowości internetowej i mobilnej, choć potencjalnie nieco niższa niż w Estonii czy na Litwie.
+*   **Regulacje:** Nadzór sprawowany przez Latvijas Banka (Bank Łotwy) i Finanšu un kapitāla tirgus komisija (FKTK - Komisja Rynku Finansowego i Kapitałowego). Wdrożenie PSD2.
+*   **Prognozy (do 2025):** Dalszy wzrost płatności mobilnych, zwiększenie dostępności globalnych portfeli, rozwój usług fintech.
+
+**Źródła (Przykładowe):**
+
+*   Eesti Pank (eestipank.ee)
+*   Lietuvos bankas (lb.lt)
+*   Latvijas Banka (bank.lv)
+*   Swedbank, SEB, LHV, Luminor, Citadele (strony internetowe banków)
+*   Raporty i badania dotyczące krajów bałtyckich (np. Deloitte Baltic States reports, badania lokalne)
+*   Portale informacyjne (np. Baltic News Network, Delfi)
+
+*Uwaga: Znalezienie spójnych, porównywalnych danych statystycznych dla wszystkich trzech krajów nadbałtyckich za cały okres 2010-2025 może być wyzwaniem. Dominacja kilku dużych grup bankowych oznacza, że ich strategie i oferowane usługi mają kluczowy wpływ na cały rynek regionalny.*
