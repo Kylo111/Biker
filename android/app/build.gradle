@@ -37,8 +37,12 @@ dependencies {
     implementation 'com.google.android.material:material:1.11.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.2.0-alpha13'
 
-    // Nordic BLE Library
-    implementation 'no.nordicsemi.android:ble:2.6.1'
+    // Nordic BLE Library - Core
+    implementation 'no.nordicsemi.android:ble:2.6.1' // Masz już tę zależność
+    // Nordic BLE Library - Kotlin extensions (zalecane)
+    implementation 'no.nordicsemi.android:ble-ktx:2.6.1' // Użyj tej samej wersji co ble
+    // Nordic BLE Scanner Compatibility Library (potrzebne do skanowania)
+    implementation 'no.nordicsemi.android.support.v18:scanner:1.6.0' // Sprawdź najnowszą wersję
 
     // Vico charts
     implementation 'com.patrykandpatrick.vico:core:1.13.0'
@@ -48,4 +52,16 @@ dependencies {
     implementation 'androidx.room:room-runtime:2.6.1'
     implementation 'androidx.room:room-ktx:2.6.1'
     kapt 'androidx.room:room-compiler:2.6.1'
+
+    // Testing dependencies
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    // Robolectric for running tests on JVM
+    testImplementation "org.robolectric:robolectric:4.10.3" // Check for latest version
+    // MockK for mocking in Kotlin tests
+    testImplementation "io.mockk:mockk:1.13.5" // Check for latest version
+    testImplementation "io.mockk:mockk-android:1.13.5" // For Android specific mocking
+    // AndroidX Core testing library for InstantTaskExecutorRule
+    testImplementation "androidx.arch.core:core-testing:2.2.0"
 }

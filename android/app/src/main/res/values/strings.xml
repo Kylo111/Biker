@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Biker</string>
+
+    <!-- Connection Status -->
+    <string name="status_connecting">Status: Connecting...</string>
+    <string name="status_initializing">Status: Initializing...</string>
+    <string name="status_connected">Status: Connected &amp; Ready</string>
+    <string name="status_disconnecting">Status: Disconnecting...</string>
+    <string name="status_disconnected">Status: Disconnected</string>
+
+    <!-- Button Actions -->
+    <string name="action_connect">Connect</string>
+    <string name="action_connecting">Connecting</string>
+    <string name="action_initializing">Initializing</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_disconnecting">Disconnecting</string>
+
+    <!-- Permissions & Bluetooth -->
+    <string name="bluetooth_required">Bluetooth is required to use this feature.</string>
+    <string name="permissions_required">Required permissions were not granted.</string>
+    <string name="bluetooth_not_supported">Bluetooth is not supported on this device.</string>
+    <string name="invalid_device_address">Invalid Bluetooth device address.</string>
+
 </resources>
