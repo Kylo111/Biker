@@ -2,39 +2,36 @@
 
 ---
 
-## Faza 0 - Inicjalizacja projektu
+## Faza 0 - Inicjalizacja i Migracja
 
-### Firmware ESP32
-- Utworzono projekt PlatformIO z BLE GATT Server i placeholderami funkcji
-- Usunięto zbędną bibliotekę SimpleFOC
-- Dodano podstawową inicjalizację i sterowanie PWM (symulacja manetki)
-- Status: **zainicjowano, logika PWM dodana**
-- Testy kompilacji: **do wykonania**
-### Aplikacja Android
-- Utworzono projekt Android Studio z architekturą MVVM i bibliotekami
-- Status: **Etap 3.2.1 (Połączenie BLE) - częściowo zaimplementowano**
-- Zaimplementowano:
-  - Podstawową logikę połączenia i stanu w `BleManager` (Nordic BLE Lib)
-  - Obsługę uprawnień i stanu połączenia w `MainActivity`
-  - Dodano zależności BLE i testowe do `build.gradle`
-  - Dodano uprawnienia do `AndroidManifest.xml`
-  - Dodano zasoby stringów
-- Testy bazowe:
-  - Dodano podstawowy test jednostkowy dla `BleManager` (`BleManagerTest.kt`)
-  - Kompilacja projektu: do wykonania w Android Studio / Gradle
-  - Test połączenia: do wykonania na urządzeniu/emulatorze po ustawieniu adresu MAC
+### Firmware ESP8266
+- Utworzono projekt PlatformIO dla NodeMCU ESP-12E.
+- Usunięto zbędną bibliotekę SimpleFOC.
+- Dodano podstawową inicjalizację i sterowanie PWM (`analogWrite`).
+- Status: **Zainicjowano, podstawowa logika PWM działa, kompilacja OK.**
+
+### Aplikacja Mobilna (Migracja do Fluttera)
+- **Rozpoczęto migrację z natywnego Androida do Fluttera.**
+- Utworzono nowy katalog `flutter_app` i zainicjowano w nim projekt Flutter (`biker_app`).
+- Istniejący kod natywny Androida pozostaje w katalogu `android/` jako archiwum.
+- Status: **Projekt Flutter zainicjowany.**
+- Następne kroki:
+    - Aktualizacja dokumentacji (`IMPLEMENTATION_PLAN.md`, `README.md`).
+    - Dodanie zależności Fluttera dla komunikacji (np. WiFi, MQTT lub BLE jeśli używany jest zewnętrzny moduł).
+    - Implementacja logiki komunikacji we Flutterze.
+    - Implementacja UI we Flutterze.
 
 ---
 
 ## Podsumowanie
 
-- Faza 0, punkt 1 została rozpoczęta: projekty firmware i app są zainicjowane
+- Firmware dla ESP8266 jest gotowy do dalszego rozwoju (odczyt czujników, komunikacja).
+- Rozpoczęto migrację aplikacji mobilnej do Fluttera.
 - Do wykonania:
-  - Kompilacja firmware z logiką PWM (zakończona sukcesem)
-  - Kompilacja i uruchomienie aplikacji Android (wymaga synchronizacji Gradle)
-  - Implementacja skanowania BLE w aplikacji
-  - Implementacja pozostałych etapów zgodnie z planem
+    - Aktualizacja dokumentacji pod kątem Fluttera.
+    - Implementacja logiki komunikacji i UI w aplikacji Flutter.
+    - Implementacja komunikacji między firmware a aplikacją Flutter (np. przez WiFi/ESP-NOW).
 
 ---
 
-## Data raportu: 2025-04-10, godz. 23:11
+## Data raportu: 2025-04-11, godz. 00:13

@@ -19,11 +19,12 @@ Aktualny status prac nad projektem można śledzić w pliku [progress.md](progre
 
 ## Struktura projektu
 
-*   **android/**: Kod źródłowy aplikacji Android (Kotlin, MVVM, Nordic BLE Lib).
+*   **flutter_app/**: Kod źródłowy aplikacji mobilnej (Flutter).
+*   **android/**: (Archiwalny) Kod źródłowy aplikacji Android (Kotlin, MVVM).
 *   **firmware/**: Kod źródłowy dla ESP8266 (PlatformIO, C++).
 *   **docs/**: Dokumentacja projektu (np. PRD - na razie w `android/`).
 *   **design/**: Pliki projektowe (np. schematy, PCB - na razie puste).
-*   **IMPLEMENTATION_PLAN.md**: Szczegółowy plan implementacji.
+*   **IMPLEMENTATION_PLAN.md**: Szczegółowy plan implementacji (wymaga aktualizacji dla Fluttera).
 *   **progress.md**: Raport postępu prac.
 *   **.gitignore**: Plik ignorowanych plików dla Git.
 *   **README.md**: Ten plik.
@@ -31,8 +32,8 @@ Aktualny status prac nad projektem można śledzić w pliku [progress.md](progre
 ## Wymagania
 
 *   **Firmware:** PlatformIO, ESP8266 (NodeMCU ESP-12E).
-*   **Aplikacja:** Android Studio, Kotlin, Min SDK 24.
+*   **Aplikacja:** Flutter SDK, Android SDK/iOS SDK.
 
 ## Uruchomienie
 
-Instrukcje dotyczące budowania i uruchamiania poszczególnych komponentów znajdują się w plikach README w odpowiednich podkatalogach (`firmware/README.md`, `android/README.md`).
+Instrukcje dotyczące budowania i uruchamiania poszczególnych komponentów znajdują się w plikach README w odpowiednich podkatalogach (`firmware/README.md`, `flutter_app/README.md`).

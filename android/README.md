@@ -1,6 +1,10 @@
-# Biker - Android App Skeleton
+# Biker - Android App Skeleton (ARCHIWALNA)
 
-## Wymagania
+**Uwaga:** Ten katalog zawiera archiwalną wersję aplikacji napisaną natywnie w Kotlinie z wykorzystaniem Android Studio. Projekt został zmigrowany do Fluttera i nowy kod znajduje się w katalogu `../flutter_app/`.
+
+---
+
+## Wymagania (wersja natywna)
 - Android Studio (Arctic Fox lub nowszy)
 - Android SDK 24+
 - Kotlin 1.9+
