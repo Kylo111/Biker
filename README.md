@@ -11,10 +11,10 @@ Projekt ma na celu stworzenie kontrolera (ESP8266), który odczytuje dane z czuj
 Aktualny status prac nad projektem można śledzić w pliku [progress.md](progress.md).
 
 **Ostatnie zmiany:**
-*   Zaimplementowano podstawową logikę połączenia Bluetooth Low Energy (BLE) w aplikacji Android, wykorzystując bibliotekę Nordic Semiconductor.
-*   Dodano obsługę uprawnień Bluetooth i lokalizacji w aplikacji Android.
-*   Dodano podstawowy test jednostkowy dla menedżera BLE.
-*   Zaktualizowano zależności projektu Android.
+*   Rozpoczęto migrację aplikacji mobilnej z natywnego Androida do Fluttera.
+*   Utworzono nowy projekt Flutter w katalogu `flutter_app`.
+*   Zaktualizowano dokumentację (`IMPLEMENTATION_PLAN.md`, `README.md`, `progress.md`) pod kątem Fluttera.
+*   Utworzono plik `flutter_app/techstack.md` opisujący stos technologiczny Fluttera.
 *   Skonfigurowano podstawowy projekt firmware dla ESP8266 z PlatformIO i dodano logikę sterowania PWM.
 
 ## Struktura projektu
