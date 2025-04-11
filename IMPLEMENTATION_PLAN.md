@@ -39,7 +39,7 @@
 
 ### Aplikacja Mobilna (Flutter)
 - Flutter SDK + Dart
-- Komunikacja: `http` (dla WiFi), `mqtt_client` (dla MQTT) lub `flutter_blue_plus` (jeśli używany zewnętrzny moduł BLE lub ESP32) - **do ustalenia metoda komunikacji z ESP8266**
+- Komunikacja: **WiFi** (HTTP REST API + ewentualnie WebSockets dla danych czasu rzeczywistego). Biblioteki: `http`, `web_socket_channel`.
 - Zarządzanie stanem: `provider` lub `flutter_bloc`
 - UI: Flutter Material Widgets
 - Wykresy: `fl_chart` lub `syncfusion_flutter_charts`
@@ -88,13 +88,16 @@
 
 ### 3.2 Aplikacja Mobilna (Flutter)
 
-#### Etap 1: Infrastruktura i Komunikacja
+#### Etap 1: Infrastruktura i Komunikacja WiFi
 - Utworzenie projektu Flutter (zrobione)
-- Dodanie zależności (np. `http`, `provider`, `fl_chart`, `shared_preferences`)
-- Implementacja podstawowej komunikacji z ESP8266 (WiFi/ESP-NOW/MQTT - **do ustalenia**)
-    - Wysyłanie konfiguracji (JSON)
-    - Odbieranie danych telemetrycznych/debug (binarne/tekst)
-- Zarządzanie stanem połączenia
+- Dodanie zależności (`http`, `web_socket_channel`, `provider`, `fl_chart`, `shared_preferences`)
+- Implementacja podstawowej komunikacji WiFi z ESP8266:
+    - Połączenie z siecią WiFi w firmware.
+    - Uruchomienie serwera HTTP na ESP8266 (np. `ESPAsyncWebServer`).
+    - Implementacja punktów końcowych REST API na ESP8266 (np. `/config` [GET/POST]).
+    - Implementacja klienta HTTP w Flutterze (`http`) do wysyłania/odbierania konfiguracji.
+    - (Opcjonalnie) Implementacja serwera WebSocket na ESP8266 i klienta w Flutterze (`web_socket_channel`) do danych czasu rzeczywistego.
+- Zarządzanie stanem połączenia WiFi w Flutterze.
 
 #### Etap 2: Konfiguracja systemu
 - UI do ustawień (magnesy, kadencja, tryby)
@@ -131,24 +134,29 @@
 
 ---
 
-## 4. Protokół komunikacji (ESP8266 <-> Flutter)
+## 4. Protokół komunikacji (ESP8266 <-> Flutter przez WiFi)
 
-- **Metoda:** WiFi (np. HTTP REST API na ESP8266, WebSockets) lub ESP-NOW lub MQTT - **do ustalenia**
+- **Metoda:** HTTP REST API (dla konfiguracji, profili) + WebSockets (dla danych czasu rzeczywistego - debug, telemetria).
 - **Format danych:**
-    - Konfiguracja: JSON
-    - Dane telemetryczne/debug: JSON lub format binarny (do optymalizacji)
-- **Punkty końcowe / Tematy MQTT (przykładowe):**
-    - `/config` (POST/GET lub temat `biker/config/set`, `biker/config/get`)
-    - `/telemetry` (GET lub temat `biker/telemetry/data`)
-    - `/debug` (GET lub temat `biker/debug/data`)
-    - `/calibrate` (POST lub temat `biker/calibrate/start`, `biker/calibrate/result`)
+    - Konfiguracja/Profile: JSON
+    - Dane telemetryczne/debug: JSON (łatwiejsze parsowanie) lub format binarny (bardziej wydajny).
+- **Punkty końcowe HTTP REST API (przykładowe):**
+    - `GET /config`: Pobranie aktualnej konfiguracji.
+    - `POST /config`: Ustawienie nowej konfiguracji (JSON w body).
+    - `GET /profiles`: Lista profili.
+    - `POST /profiles`: Zapis nowego profilu.
+    - `POST /calibrate/start`: Rozpoczęcie kalibracji.
+- **Komunikaty WebSocket (przykładowe):**
+    - Serwer -> Klient: `{ "type": "telemetry", "cadence": 60, "pwm": 128 }`
+    - Serwer -> Klient: `{ "type": "debug", "pas_voltage": 1.5, "pulse": true }`
+    - Serwer -> Klient: `{ "type": "calibration_result", ... }`
 
 ---
 
 ## 5. Narzędzia i testowanie
 
 - **Firmware:**
-  - PlatformIO, Monitor portu szeregowego, Narzędzia do testowania WiFi/MQTT (np. Postman, MQTT Explorer)
+  - PlatformIO, Monitor portu szeregowego, Narzędzia do testowania HTTP/WebSocket (np. Postman, przeglądarka, klient WebSocket)
 - **Flutter:**
   - Flutter SDK, VS Code/Android Studio, `flutter_test`, Flutter DevTools
 - **Inne:**  
@@ -171,8 +179,8 @@
 
 ## 7. Uwagi końcowe
 
-- Priorytet: stabilna i szybka komunikacja (WiFi/ESP-NOW/MQTT) oraz szybka reakcja na zmiany kadencji
-- Minimalizacja opóźnień w przesyle danych telemetrycznych/debug
+- Priorytet: stabilna i szybka komunikacja WiFi oraz szybka reakcja na zmiany kadencji
+- Minimalizacja opóźnień w przesyle danych telemetrycznych/debug przez WebSockets.
 - Intuicyjna konfiguracja i edycja krzywych  
 - Możliwość rozbudowy o kolejne funkcje (np. OTA, logowanie danych)
 

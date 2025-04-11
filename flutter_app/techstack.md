@@ -12,12 +12,16 @@
 
 ## 3. Komunikacja z ESP8266
 
-- **Metoda:** Do ustalenia. Możliwości:
-    - **WiFi (HTTP):** Aplikacja Flutter jako klient HTTP, ESP8266 jako serwer HTTP (biblioteka `ESPAsyncWebServer` lub podobna). Użycie biblioteki `http` w Flutterze.
-    - **WiFi (WebSockets):** Dwukierunkowa komunikacja w czasie rzeczywistym. Biblioteka `web_socket_channel` w Flutterze, odpowiednia biblioteka WebSocket na ESP8266.
-    - **WiFi (MQTT):** Komunikacja przez brokera MQTT. Biblioteka `mqtt_client` w Flutterze, biblioteka `PubSubClient` na ESP8266. Wymaga działającego brokera MQTT (lokalnie lub w chmurze).
-    - **ESP-NOW:** Bezpośrednia komunikacja między urządzeniami ESP bez routera. Wymaga odpowiedniej implementacji po obu stronach (może być bardziej złożona).
-- **Format danych:** JSON (dla konfiguracji), format binarny lub JSON (dla danych telemetrycznych/debug).
+- **Metoda:** **WiFi**
+    - **HTTP REST API:** Do wysyłania/odbierania konfiguracji, profili, inicjowania kalibracji.
+        - Flutter: Biblioteka `http`.
+        - ESP8266: Biblioteka `ESPAsyncWebServer` (zalecana) lub standardowa `ESP8266WebServer`.
+    - **WebSockets:** Do przesyłania danych czasu rzeczywistego (telemetria, debug, wyniki kalibracji).
+        - Flutter: Biblioteka `web_socket_channel`.
+        - ESP8266: Biblioteka `WebSocketsServer` (często używana z `ESPAsyncWebServer`).
+- **Format danych:**
+    - Konfiguracja/Profile: JSON.
+    - Dane czasu rzeczywistego: JSON (łatwiejsze parsowanie) lub format binarny (dla optymalizacji).
 
 ## 4. Interfejs Użytkownika (UI)
 
